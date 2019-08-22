@@ -1,4 +1,4 @@
-#### HashMap的数据结构理解
+### HashMap的数据结构理解
 
 **内部结构**
 
@@ -21,17 +21,15 @@ Entry<K, V> ---> hash函数
         |
       ......）
 ```
-
 &nbsp;
-#### HashMap如何通过key获取数据
+### HashMap如何通过key获取数据
 首先，传入的key进入hash运算，得到hashCode,然后以hashCode为索引查找第一层的数组，
 
 若索引位置对应为空，返回null，
 
 若不为空，那么就要遍历索引处Entry下对应的单链表，若有相同的key则返回对应Entry的value，没有则返回null
-
 &nbsp;
-#### HashMap如何存储(put)key，value
+### HashMap如何存储(put)key，value
 首先HashMap存在容量大小，在存入key,value之前需要先确定当前容量是否已达到阀值，
 
 **没达到阀值**
@@ -47,11 +45,12 @@ Entry<K, V> ---> hash函数
                 此时需要"挤压"当前单链表，将新的Entry放到当前单链表的首位
             若有Entry的key与传入的key相同
                 那么就更新旧Entry的value值
-
 &nbsp;
 **达到阀值**
-    1. 进行扩容，修改HashMap中定义容量大小的变量
-    2. 如何扩容
+
+1. 进行扩容，修改HashMap中定义容量大小的变量
+
+2. 如何扩容
         a. 将原有数组用一个更大的数组替换掉，定义一个空白的大数组
         b. 定义一个List集合临时存放Entry<K, V>
         c. 遍历HashMap的旧数组，遍历数组中Entry同时也要遍历其下对应单链表的Entry，全部放入到List中
