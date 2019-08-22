@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da94fbaf-603f-4e1c-a9f4-a8c12fdd7b1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/heyh/collection/hashMap/impl/MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heyh/collection/hashMap/MyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heyh/collection/hashMap/MyMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/heyh/collection/hashMap/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/heyh/collection/hashMap/HashMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heyh/collection/hashMap/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heyh/collection/hashMap/readme" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -94,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/collection/hashMap/readme">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -333,7 +328,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566374963809</updated>
       <workItem from="1566374968074" duration="544000" />
-      <workItem from="1566375623572" duration="13440000" />
+      <workItem from="1566375623572" duration="14049000" />
     </task>
     <servers />
   </component>
@@ -346,7 +341,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13984000" />
+    <option name="totallyTimeSpent" value="14593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="0" />
@@ -446,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/collection/hashMap/readme">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
