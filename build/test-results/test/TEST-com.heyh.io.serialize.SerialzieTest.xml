@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.heyh.io.serialize.SerialzieTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-20T18:36:42" hostname="heyhdeMacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="readFileNoSeria" classname="com.heyh.io.serialize.SerialzieTest" time="0.007"/>
+  <system-out><![CDATA[Serialize{id=3101, name='xixi', noSerialize=NoSerialize{id=20003101}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
