@@ -11,12 +11,14 @@ public class Book {
 
     {
         System.out.println("Book的普通代码块");
+        System.out.println("price: " + price);
     }
 
     static int amount = 112;
 
     static {
         System.out.println("Book的静态代码块");
+        System.out.println("static price: " + amount);
     }
 
     Book() {

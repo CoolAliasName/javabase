@@ -3,7 +3,7 @@ package com.heyh.valid.thread.junior.consumerandproducter.waitandnotify;
 /**
  * 生产者
  */
-public class Producter implements Runnable{
+public class Producter implements Runnable {
 
     private Starge starge;
 

@@ -35,6 +35,7 @@ public class MyArrayList<E> extends AbstractList<E>
 
     /**
      * 带大小的构造方法
+     *
      * @param initCapacity
      */
     public MyArrayList(int initCapacity) {
@@ -49,6 +50,7 @@ public class MyArrayList<E> extends AbstractList<E>
 
     /**
      * 传入集合的构造方法
+     *
      * @param c
      */
     public MyArrayList(Collection<? extends E> c) {
@@ -66,6 +68,7 @@ public class MyArrayList<E> extends AbstractList<E>
 
     /**
      * 指定下标索引位置存放元素
+     *
      * @param index
      * @param element
      * @return
@@ -84,6 +87,7 @@ public class MyArrayList<E> extends AbstractList<E>
      * 第一步：判断当前ArrayList的容量是否够用，不够用需要扩容
      * 第二步：将传入的元素放入到element数组指定的位置
      * 第三步：将ArrayList的实际元素个数 +1
+     *
      * @param e
      * @return
      */
@@ -98,6 +102,7 @@ public class MyArrayList<E> extends AbstractList<E>
     /**
      * 确定当前操作需要的ArrayList的最小容量
      * 如果数组为空则固定扩容10，否则就最小容量就是当前元素个数+1
+     *
      * @param minCapacity ArrayList实际存放元素个数 +1，表示当前执行新增操作所需要的最小容量
      */
     public void enSureCapacityInternal(int minCapacity) {
@@ -110,6 +115,7 @@ public class MyArrayList<E> extends AbstractList<E>
 
     /**
      * 判断当前容量是否够用，不够需要执行扩容
+     *
      * @param minCapacity ArrayList实际存放元素个数 +1，表示当前执行新增操作所需要的最小容量
      */
     public void enSureExplicitCapacity(int minCapacity) {
@@ -124,6 +130,7 @@ public class MyArrayList<E> extends AbstractList<E>
 
     /**
      * 扩容
+     *
      * @param minCapacity
      */
     public void grow(int minCapacity) {
@@ -137,11 +144,12 @@ public class MyArrayList<E> extends AbstractList<E>
         拷贝扩容
             新建一个长度为 newCapacity 的数组，循环遍历旧数组将元素放入到新数组对应的位置，完成后返回新数组
          */
-        elementData = Arrays.copyOf(elementData, newCapacity);
+            elementData = Arrays.copyOf(elementData, newCapacity);
     }
 
     /**
      * 最大容量上限
+     *
      * @return
      */
     private static int hugeCapacity(int minCapacity) {
@@ -153,6 +161,7 @@ public class MyArrayList<E> extends AbstractList<E>
 
     /**
      * 检验下标索引
+     *
      * @param index
      */
     public void rangeCheck(int index) {

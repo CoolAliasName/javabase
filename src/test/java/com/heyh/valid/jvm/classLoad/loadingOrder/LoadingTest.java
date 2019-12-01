@@ -12,7 +12,7 @@ public class LoadingTest {
 
     @Test
     public void testClassAndObjOrder() {
-        new Son();
+        new com.heyh.valid.jvm.classLoad.classAndObjLoadOrder.Son();
     }
 
 }

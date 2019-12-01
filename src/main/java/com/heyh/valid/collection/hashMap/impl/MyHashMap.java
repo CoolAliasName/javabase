@@ -8,6 +8,7 @@ import java.util.List;
 /**
  * HashMap的要素之一，就是数组，
  * 第一步：定义数组，及数组初始化大小、扩容阀值
+ *
  * @param <K>
  * @param <V>
  */
@@ -55,9 +56,9 @@ public class MyHashMap<K, V> implements MyMap<K, V> {
 
     /**
      * HashMap的要素之一，这里体现了单链表
+     *
      * @param <K>
-     * @param <V>
-     * --------------------------------------------------------------------------------------
+     * @param <V> --------------------------------------------------------------------------------------
      */
     class Entry<K, V> implements MyMap.Entry<K, V> {
 
@@ -93,6 +94,7 @@ public class MyHashMap<K, V> implements MyMap<K, V> {
 
     /**
      * 从put的实现来看，若是频繁的进行 resize/rehash 操作，会影响性能
+     *
      * @param k
      * @param v
      * @return
@@ -149,6 +151,7 @@ public class MyHashMap<K, V> implements MyMap<K, V> {
 
     /**
      * resize/rehash的过程，就是数组变大，原来数组中的entry元素一个个的put到新数组的过程，需要注意的是一些状态变量的改变。
+     *
      * @param i
      */
     private void resize(int i) {
@@ -167,7 +170,7 @@ public class MyHashMap<K, V> implements MyMap<K, V> {
                 do {
                     entryList.add(entry);
                     entry.next();
-                }while (entry != null);
+                } while (entry != null);
             }
         }
 

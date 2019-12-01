@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.heyh.valid.sort.SortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-09T07:08:19" hostname="heyhdeMacBook-Pro.local" time="138.053">
-  <properties/>
-  <testcase name="quickArr" classname="com.heyh.valid.sort.SortTest" time="138.053"/>
-  <system-out><![CDATA[1 3 9 8 
-1 3 8 9 
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

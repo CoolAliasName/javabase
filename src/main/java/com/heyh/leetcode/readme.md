@@ -6,6 +6,6 @@
 
 * 数组 array
 
-#### 中级算法 Intermediate algorithm
+#### 中级算法 Interme``diate algorithm
 
 #### 高级算法 Advanced algorithm

@@ -1,6 +1,6 @@
 package com.heyh.valid.thread.junior.baseMethod;
 
-public class Thread2 extends Thread{
+public class Thread2 extends Thread {
 
     Thread thread;
 

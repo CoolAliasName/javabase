@@ -11,7 +11,7 @@ public class DoSerialize {
 
         ByteArrayOutputStream buffer = new ByteArrayOutputStream(); // 输出流字节数组
 
-        try(ObjectOutputStream output = new ObjectOutputStream(buffer)) {
+        try (ObjectOutputStream output = new ObjectOutputStream(buffer)) {
             // 写入int
             output.writeInt(123);
             // 写入String

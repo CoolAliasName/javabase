@@ -10,6 +10,7 @@ public class Book {
 
     static {
         System.out.println("书的静态代码块");
+        System.out.println("static book: " + book);
     }
 
     public static void staticFunction() {
@@ -17,8 +18,6 @@ public class Book {
     }
 
     static int amount = 112;
-
-    int price = 110;
 
     {
         System.out.println("书的普通代码块");
@@ -28,5 +27,7 @@ public class Book {
         System.out.println("书的构造方法");
         System.out.println("price: " + price + ", amount: " + amount);
     }
+
+    int price = 110;
 
 }
