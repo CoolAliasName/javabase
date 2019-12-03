@@ -122,9 +122,9 @@ public class MyHashMap<K, V> implements MyMap<K, V> {
                     e.value = v;
                     return oldValue;
                 }
-                e = e.next; // 如果传入的key不存在，则需要"挤压"单链表将新的Entry<K, V>插入进去
+                e = e.next; // 如果传入的key值不存在，则一直查找链表中到下一位，直到找到最后一位（链表最后一位的next == null）
             }
-            table[index] = new Entry<K, V>(k, v, entry);
+            table[index] = new Entry<K, V>(k, v, entry); // 遍历玩整个链表还是找不到对应的key值，则需要"挤压"单链表将新的Entry<K, V>插入到链表到第一位
             ++entryUseSize;
         }
         return oldValue;
