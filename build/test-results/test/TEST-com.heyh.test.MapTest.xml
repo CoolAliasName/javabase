@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.heyh.test.MapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-04T03:25:20" hostname="heyhdeMBP" time="0.003">
+  <properties/>
+  <testcase name="list" classname="com.heyh.test.MapTest" time="0.003"/>
+  <system-out><![CDATA[1
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
