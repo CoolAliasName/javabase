@@ -26,6 +26,7 @@ public class CORTest {
         bgd.setNextHandler(front);
 
         // 生成随机的请求，并且响应
+        // 这个测试用例实现的是拿请求依次和责任链上的环节匹配，遇到应该处理这个请求的环节就将请求处理，不再传递请求。
         while (times++ != 10) {
             ErrorRequester requester = new ErrorRequester();
             requester.setDuty(map.get((int)(Math.random()*100)%3) );

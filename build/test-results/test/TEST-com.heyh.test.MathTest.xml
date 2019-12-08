@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.heyh.test.MathTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-08T11:09:01" hostname="192.168.0.184" time="0.003">
+  <properties/>
+  <testcase name="test01" classname="com.heyh.test.MathTest" time="0.003"/>
+  <system-out><![CDATA[1
+2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

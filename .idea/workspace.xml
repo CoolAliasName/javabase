@@ -10,9 +10,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/heyh/valid/designpattern/observer/LifecycleEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/heyh/valid/designpattern/observer/LifecycleSupport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/heyh/valid/jvm/jvmload/ATest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/heyh/valid/designpattern/duty/cor/CORTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/heyh/valid/designpattern/duty/cor/CORTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/CORTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/CORTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -51,86 +50,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/requester/ErrorRequester.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/Filter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/CORTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/FilterChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="626">
-                <caret line="193" selection-start-line="193" selection-end-line="193" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/ApplicationFilterChain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/Handler.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/heyh/test/MathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="240">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/impl/DBAHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/collection/arrayList/MyArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="23" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="237">
+              <caret line="95" column="41" lean-forward="true" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/impl/BGDHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/MyFilter1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="192">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/impl/FRONTHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="15" column="78" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="122">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -185,29 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/singleton/BasicSingleTon.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/singleton/LazyBasicSingleTon.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/singleton/MySingleTon.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/heyh/valid/desginpattern/singleton/MySingleTonTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/thread/junior/create/TicketExtends.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/thread/junior/create/CreateThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/thread/junior/create/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/heyh/test/JustTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/bean/ExtendType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/bean/Type.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/proxy/Subject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/proxy/RealSubject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/Reflection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/proxy/DynamicSubject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/classLoad/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/jvmload/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/jvmload/example1/AClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/jvmload/ATest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/jvmload/example1/ATest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/jvmload/example1/ATest2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/collection/hashMap/impl/MyHashMap.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/heyh/test/HashMapTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/heyh/test/MapTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/heyh/test/ListenTest.java" />
@@ -234,8 +188,31 @@
         <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/requester/ErrorRequester.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/Handler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/impl/FRONTHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/CORTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/util/Response.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/util/Request.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/Pipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/MyValve.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/Valve.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/StandarPipeline.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/CORTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/MyValve2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/MyValve3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/PipelineTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/MyValve1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/FilterChain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/MyFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/ApplicationFilterConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/MyFilter1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/MyFilter2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/MyFilter3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/Client.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/heyh/test/MathTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/ApplicationFilterChain.java" />
       </list>
     </option>
   </component>
@@ -327,6 +304,29 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="heyh" type="462c0819:PsiDirectoryNode" />
               <item name="valid" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabase" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="heyh" type="462c0819:PsiDirectoryNode" />
+              <item name="valid" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="arrayList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabase" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="heyh" type="462c0819:PsiDirectoryNode" />
+              <item name="valid" type="462c0819:PsiDirectoryNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -352,21 +352,47 @@
               <item name="valid" type="462c0819:PsiDirectoryNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="duty" type="462c0819:PsiDirectoryNode" />
-              <item name="cor" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabase" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabase" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabase" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabase" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="heyh" type="462c0819:PsiDirectoryNode" />
-              <item name="valid" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="duty" type="462c0819:PsiDirectoryNode" />
-              <item name="cor" type="462c0819:PsiDirectoryNode" />
-              <item name="requester" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabase" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="heyh" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -388,18 +414,20 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/heyh/thread/junior/consumerandproducter" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.heyh.io.serialize.copy_model" />
-      <recent name="com.heyh.io.serialize" />
-      <recent name="com.heyh.collection.hashMap.impl" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/heyh/thread/junior/status" />
       <recent name="$PROJECT_DIR$/src/main/java/com/heyh/thread/junior/create" />
       <recent name="$PROJECT_DIR$/src/main/java/com/heyh/thread/junior/consumerandproducter/blockingqueue" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heyh.valid.designpattern.duty.filter" />
+      <recent name="com.heyh.valid.designpattern.duty.pipeline" />
+      <recent name="com.heyh.io.serialize.copy_model" />
+      <recent name="com.heyh.io.serialize" />
+      <recent name="com.heyh.collection.hashMap.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/heyh/thread/junior/consumerandproducter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -414,13 +442,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CORTest">
-    <configuration name="ATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.heyh.valid.jvm.jvmload.example1.ATest" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="CORTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heyh.valid.designpattern.duty.cor.CORTest" />
       <module name="javabase_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.heyh.valid.jvm.jvmload.example1.*" />
+          <option name="PATTERN" value="com.heyh.valid.designpattern.duty.cor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,12 +456,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CORTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.heyh.valid.designpattern.duty.cor.CORTest" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heyh.valid.designpattern.duty.filter.Client" />
       <module name="javabase_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.heyh.valid.designpattern.duty.cor.*" />
+          <option name="PATTERN" value="com.heyh.valid.designpattern.duty.filter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,32 +482,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapTest.test01" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.heyh.test.HashMapTest.test01&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="PipelineTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.heyh.valid.designpattern.duty.pipeline.PipelineTest" />
+      <module name="javabase_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heyh.valid.designpattern.duty.pipeline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="MapTest.list" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MathTest.test01" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.heyh.test.MapTest.list&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.heyh.test.MathTest.test01&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -496,11 +517,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MathTest.test01" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.PipelineTest" />
         <item itemvalue="Application.CORTest" />
         <item itemvalue="Application.Observer" />
-        <item itemvalue="Gradle.MapTest.list" />
-        <item itemvalue="Gradle.HashMapTest.test01" />
-        <item itemvalue="Application.ATest" />
       </list>
     </recent_temporary>
   </component>
@@ -537,26 +558,11 @@
       <workItem from="1573802285814" duration="19247000" />
       <workItem from="1574910321302" duration="14132000" />
       <workItem from="1575366341418" duration="20501000" />
-      <workItem from="1575553229475" duration="578000" />
+      <workItem from="1575553229475" duration="13758000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MySingleTonTest_test1 - 2019.11.18 at 10h 46m 55s.xml">
-      <configuration name="MySingleTonTest.test1" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MySingleTonTest_test1 - 2019.11.18 at 10h 47m 36s.xml">
-      <configuration name="MySingleTonTest.test1" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MySingleTonTest_test1 - 2019.11.18 at 10h 47m 50s.xml">
-      <configuration name="MySingleTonTest.test1" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MySingleTonTest_test1 - 2019.11.18 at 10h 51m 00s.xml">
-      <configuration name="MySingleTonTest.test1" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MySingleTonTest_test1 - 2019.11.18 at 10h 53m 45s.xml">
-      <configuration name="MySingleTonTest.test1" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="MySingleTonTest_test1 - 2019.11.18 at 10h 57m 39s.xml">
       <configuration name="MySingleTonTest.test1" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -572,15 +578,30 @@
     <history-entry file="MapTest_list - 2019.12.04 at 11h 25m 20s.xml">
       <configuration name="MapTest.list" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="MathTest_test01 - 2019.12.06 at 18h 10m 29s.xml">
+      <configuration name="MathTest.test01" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MathTest_test01 - 2019.12.06 at 18h 10m 46s.xml">
+      <configuration name="MathTest.test01" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MathTest_test01 - 2019.12.06 at 18h 11m 00s.xml">
+      <configuration name="MathTest.test01" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MathTest_test01 - 2019.12.08 at 19h 09m 01s.xml">
+      <configuration name="MathTest.test01" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MathTest_test01 - 2019.12.08 at 19h 09m 02s.xml">
+      <configuration name="MathTest.test01" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350238000" />
+    <option name="totallyTimeSpent" value="363418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="816" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28397712" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28397712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -589,8 +610,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.60359114" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4627072" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.28314918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.429558" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -621,8 +642,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.60359114" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4627072" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.28314918" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.429558" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -699,10 +720,10 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/CORTest.java</url>
-          <line>29</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/Client.java</url>
+          <line>17</line>
           <properties />
-          <option name="timeStamp" value="57" />
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -712,223 +733,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="948" column="40" selection-start-line="948" selection-start-column="37" selection-end-line="948" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/bean/ExtendType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="703" column="46" selection-start-line="703" selection-start-column="46" selection-end-line="703" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="676" column="29" lean-forward="true" selection-start-line="676" selection-start-column="29" selection-end-line="676" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="48">
-            <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/proxy/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/proxy/RealSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/proxy/DynamicSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/reflection/Reflection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="97" column="28" selection-start-line="97" selection-start-column="28" selection-end-line="97" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/classLoad/initOrder/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/classLoad/classLoadOrder/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="144">
-            <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/classLoad/staticNewOrder/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/classLoad/staticNewOrder/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/classLoad/classAndObjLoadOrder/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/classLoad/classAndObjLoadOrder/Grandpa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/classLoad/classAndObjLoadOrder/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/classLoad/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="24">
-            <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/jvmload/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="24">
-            <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/jvmload/example1/AClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/jvmload/example1/ATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/jvm/jvmload/example1/ATest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/collection/hashMap/MyMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="260" column="15" selection-start-line="260" selection-start-column="15" selection-end-line="260" selection-end-column="15" />
-          <folding>
-            <element signature="e#8767#8768#0" expanded="true" />
-            <element signature="e#8824#8825#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="610" column="13" selection-start-line="610" selection-start-column="13" selection-end-line="610" selection-end-column="13" />
-          <folding>
-            <element signature="e#24331#24332#0" expanded="true" />
-            <element signature="e#24396#24397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -936,17 +740,6 @@
           <folding>
             <element signature="e#8064#8065#0" expanded="true" />
             <element signature="e#8112#8113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/collection/hashMap/impl/MyHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="103" column="26" lean-forward="true" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
-          <folding>
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1076,28 +869,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/requester/ErrorRequester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/impl/BGDHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
+        <state relative-caret-position="216">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1107,7 +881,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/impl/FRONTHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="360">
           <caret line="15" column="78" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1117,12 +891,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/CORTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/collection/hashMap/MyMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="384">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/collection/hashMap/impl/MyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1130,10 +912,234 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="626">
-            <caret line="193" selection-start-line="193" selection-end-line="193" />
+          <first_editor relative-caret-position="-3358">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="10" selection-start-column="10" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="14" selection-start-column="14" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/util/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/util/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/Valve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/requester/ErrorRequester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/handle/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/MyValve3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/Pipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/cor/CORTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/MyValve2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/PipelineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/StandarPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/pipeline/MyValve1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/MyFilter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/MyFilter3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/ApplicationFilterConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/heyh/test/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/MyFilter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/heyh/test/MathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/collection/arrayList/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="95" column="41" lean-forward="true" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heyh/valid/designpattern/duty/filter/ApplicationFilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
         </state>
       </provider>
     </entry>
